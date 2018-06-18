@@ -1,2 +1,1 @@
-# Privacy-Card-Generator
-Mass created privacy cards
+NO LONGER WORKING PLEASE USE https://github.com/TCWTEAM/privacy-card-gen-v2
